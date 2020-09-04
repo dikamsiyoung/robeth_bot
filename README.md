@@ -8,7 +8,7 @@ Initially born out of the need to authenticate Telegram Bitcoin and Eth ad-bots,
 - Mine cryptos from Telegram while you do other things... 🙃
 
 ## How to use
-- Provide Telegram API ID and hash from [here](my.telegram.org)
+- Provide Telegram API ID and hash from [here](https://my.telegram.org)
 - Sign in to your Telegram account at runtime
 - Provide the username of the bot
 - Provide the command  to view ads and the time duration.
@@ -16,7 +16,7 @@ Initially born out of the need to authenticate Telegram Bitcoin and Eth ad-bots,
 ## Language
 Python with Telegram dependencies from Telethon
 
-### Project is open for collaboration 🤗
+Project is open for collaboration 🤗
 
 ## To do
 - Strengthen loop algorithms
