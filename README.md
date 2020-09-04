@@ -18,9 +18,9 @@ Python with Telegram dependencies from Telethon
 
 ____________
 
-### Project is open for collaboration 🤗
+## Project is open for collaboration 🤗
 
-## To do
+### To do
 - Strengthen loop algorithms
 - Integrate ML for predictions on Telegram forex/crypto trade bots
 
