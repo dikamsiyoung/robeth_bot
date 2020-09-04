@@ -17,7 +17,8 @@ Initially born out of the need to authenticate Telegram Bitcoin and Eth ad-bots,
 Python with Telegram dependencies from Telethon
 
 
-#### Project is open for collaboration 🤗
+
+### Project is open for collaboration 🤗
 
 ## To do
 - Strengthen loop algorithms
