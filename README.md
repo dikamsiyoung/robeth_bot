@@ -21,6 +21,7 @@ ____________
 ## Project is open for collaboration 🤗
 
 ### To do
+- User interface for script
 - Make loop algorithm more robust
 - Integrate ML for predictions on Telegram forex/crypto trade bots
 
