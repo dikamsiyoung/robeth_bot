@@ -37,17 +37,6 @@ _ = await client.send_message(bot_name, '/start')
 _ = await client.connect()
 reply = await client.get_messages(bot_name, 1)
 reply[0].message
-
-### For ETH Ads Bot
-async def send_message():
-    time.sleep(35)
-    await client.connect()
-    await client.send_message('ETH_Ads_bot', '/viewads')
-    print('Done!')
-    
-### Start
-while True:
-    await send_message()
     
 ### Send command
 async def send_command():
