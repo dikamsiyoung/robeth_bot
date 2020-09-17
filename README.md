@@ -19,14 +19,5 @@ Initially born out of the need to authenticate Telegram Bitcoin and Eth ad-bots,
 ## Language
 Python with Telegram dependencies from Telethon
 
-____________
-
-## Project is open for collaboration 🤗
-
-### To do
-- User interface for script
-- Make loop algorithm more robust
-- Integrate ML for predictions on Telegram forex/crypto trade bots
-
 
 
